@@ -58,3 +58,23 @@ body {
 .banner .profile-image:hover {
   transform: scale(1.2) rotate(-20deg);
 }
+
+/* Intro section */
+.intro-left {
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: 10;
+  padding-left: 20px;
+  padding-right: 730px;
+  padding-top: 60px;
+  text-align: left;
+  padding-bottom: 70px;
+}
+
+.image-right {
+  float: right;
+  width: 620px;
+  height: 320px;
+  padding-right: 15px;
+  padding-top: 60px;
+  border-radius: 5%;
+}

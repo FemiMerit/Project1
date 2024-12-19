@@ -1,0 +1,18 @@
+/* General Styles */
+body {
+    background-color: black !important;
+  }
+  
+/*Colour and position for navbar links*/
+  .nav-link {
+    color: beige;
+  }
+  
+  .navbar {
+    background-color: #000 !important;
+    position: fixed !important;
+    padding-top: 1% !important;
+    padding-bottom: 1% !important;
+    width: 100% !important;
+    z-index: 1 !important;
+  }

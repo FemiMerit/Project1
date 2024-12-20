@@ -98,6 +98,27 @@ body {
   border-radius: 5%;
 }
 
+/* Employment Section*/
+#employment {
+  margin: 15px;
+  border-top: 3px dashed rgba(220, 220, 220, 0.386);
+  padding: 20px;
+}
+
+.employment-entry {
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: 10;
+  padding-top: 30px;
+  padding-left: 15px;
+  padding-right: 300px;
+}
+
+.employment-image {
+  width: 150px;
+  height: auto;
+  border-radius: 5px;
+}
+
 /* Positioning for education details */
 #position1,
 #position2,

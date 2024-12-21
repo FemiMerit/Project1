@@ -129,3 +129,11 @@ body {
 #position3 {
   display: inline-block;
 }
+
+/*Contacts*/
+.contact-right {
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: 10;
+  padding-top: 30px;
+  padding-left: 700px;
+}

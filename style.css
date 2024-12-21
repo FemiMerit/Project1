@@ -105,6 +105,10 @@ body {
   padding: 20px;
 }
 
+.employment-title{
+  color: rgba(255, 255, 255, 0.7);
+}
+
 .employment-entry {
   color: rgba(255, 255, 255, 0.7);
   font-weight: 10;

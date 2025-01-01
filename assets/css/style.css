@@ -20,7 +20,7 @@ body {
 /* Banner and related styles */
 .banner {
   text-align: center;
-  background-image: url('assets/images/background pic.jpg');
+  background-image: url('../images/background-pic.jpg');
   background-size: cover;
   background-position: center;
   overflow: hidden;
@@ -130,10 +130,22 @@ body {
   display: inline-block;
 }
 
-/*Contacts*/
-.contact-right {
+/*Contacts section*/
+.contact-left {
+  margin: 15px;
+  border-top: 3px dashed rgba(220, 220, 220, 0.386);
+  padding: 20px;
   color: rgba(255, 255, 255, 0.7);
   font-weight: 10;
   padding-top: 30px;
-  padding-left: 700px;
+  padding-left: 15px;
+}
+
+/*Contact form*/
+.contact-form{
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: 10;
+  padding-top: 5px;
+  padding-left: 25px;
+  padding-right: 800px;
 }

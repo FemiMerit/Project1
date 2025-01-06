@@ -60,67 +60,81 @@ body {
 }
 
 /* Intro section */
+
+.intro-placement{
+  display:flex;
+  flex-direction:column;
+  width:100%;
+  align-items:center;
+  justify-content:center;
+}
+
 .intro-left {
   color: rgba(255, 255, 255, 0.7);
   font-weight: 10;
-  padding-left: 20px;
-  padding-right: 730px;
-  padding-top: 60px;
-  text-align: left;
-  padding-bottom: 70px;
+  padding-top: 30px;
 }
 
 .image-right {
-  float: right;
-  width: 620px;
+  max-width:620px;
+  width: 100%;
   height: 320px;
-  padding-right: 15px;
-  padding-top: 60px;
+  padding-top:30px;
   border-radius: 5%;
 }
 /* Education Section */
-.education-right {
-  padding-top: 80px;
-  margin: 15px;
-  font-weight: 10;
+
+.education-placement{
   border-top: 3px dashed rgba(220, 220, 220, 0.386);
+  display:flex;
+  flex-direction:column;
+  width:100%;
+  align-items:center;
+  justify-content:center;
+}
+.education-right {
+  padding-top: 40px;
+  font-weight: 10;
   color: rgba(255, 255, 255, 0.7);
-  padding-left: 700px;
-  padding-bottom: 65px;
 }
 
 .image-left {
   float: left;
-  width: 620px;
-  height: 320px;
-  padding-top: 50px;
-  padding-left: 20px;
+  max-width: 620px;
+  width: 100%;
+  padding-top: 40px;
   border-radius: 5%;
 }
 
 /* Employment Section*/
-#employment {
-  margin: 15px;
-  border-top: 3px dashed rgba(220, 220, 220, 0.386);
-  padding: 20px;
+#employment-placement{
+    
+    display:flex;
+    flex-direction:column;
+    width:100%;
+    align-items:center;
+    justify-content:center;
 }
 
 .employment-title{
+  border-top: 3px dashed rgba(220, 220, 220, 0.386);
+  padding-top:20px;
+  padding-left: 15px;
   color: rgba(255, 255, 255, 0.7);
 }
 
 .employment-entry {
   color: rgba(255, 255, 255, 0.7);
   font-weight: 10;
-  padding-top: 30px;
-  padding-left: 15px;
-  padding-right: 300px;
+  padding-top: 15px;
 }
 
 .employment-image {
-  width: 150px;
+  max-width: 150px;
+  width: 100%;
   height: auto;
   border-radius: 5px;
+  padding-left: 15px;
 }
 
 /* Positioning for education details */
@@ -131,13 +145,21 @@ body {
 }
 
 /*Contacts section*/
+
+#contact-placement{
+  display:flex;
+  flex-direction:column;
+  width:100%;
+  align-items:left;
+  justify-content:left;
+}
+
 .contact-left {
   margin: 15px;
   border-top: 3px dashed rgba(220, 220, 220, 0.386);
-  padding: 20px;
   color: rgba(255, 255, 255, 0.7);
   font-weight: 10;
-  padding-top: 30px;
+  padding-top: 15px;
   padding-left: 15px;
 }
 
@@ -146,6 +168,18 @@ body {
   color: rgba(255, 255, 255, 0.7);
   font-weight: 10;
   padding-top: 5px;
-  padding-left: 25px;
-  padding-right: 800px;
+  padding-left: 15px;
+}
+
+/*Responce message*/
+.response{
+  display:flex;
+  flex-direction:column;
+  width:100%;
+  align-items:center;
+  justify-content:center;
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: 10;
+  padding-top: 5px;
+  padding-left: 15px;
 }

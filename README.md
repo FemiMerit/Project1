@@ -2,7 +2,7 @@
 
 # *Femi Merit CV*
 
-The Animal Shelter website allows people to learn about the company "Animal Shelter" and find information about animals living in this shelter. The visitors of the website could quickly contact the company about adopting animals as well as making a donation.
+Femi Merit CV is a website that allows potential employers see his Education and Career history. An employer can get in contact with Femi by sending a message throu the form application in the website.
 
 The site can be accessed by this [link](https://iuliiakonovalova.github.io/animal_shelter/)
 

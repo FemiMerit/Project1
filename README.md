@@ -4,7 +4,7 @@
 
 Femi Merit CV is a website that allows potential employers see his Education and Career history. An employer can get in contact with Femi by sending a message throu the form application in the website.
 
-The site can be accessed by this [link](https://iuliiakonovalova.github.io/animal_shelter/)
+The site can be accessed by this [link](https://femimerit.github.io/Project1/)
 
 ![Responsive Mockup](documentation/responsive_mockup.png)
 
@@ -14,20 +14,17 @@ The site can be accessed by this [link](https://iuliiakonovalova.github.io/anima
 
 ### First Time Visitor Goals:
 
-* As a First Time Visitor, I want to easily understand the main purpose of the site, so I can learn more about the organization.
+* As a First Time Visitor, I want to easily understand the main purpose of the site, so I can learn more about Femi Merit background.
 * As a First Time Visitor, I want to be able to easily navigate through the website, so I can find the content.
-* As a First Time Visitor, I want to see the testimonials, so I can see whether the organization is trustworthy.
+* As a First Time Visitor, I was to see updates to Femi's emplyment histrory
+* As a First Time Visitor, I want to see information about Femi's job roles, so i can undertand what he specialise in
+* As a First Time Visitor, I want to have a way to contact Femi Merit, so I can know his availability
+* As a First Time Visitor, I want to find link directing me to the company site Femi Merit has worked for
+* As a first time Visitor, I want to be able to get confirmation that my message sent to Femi as been achknowledge
 
-### Returning VisitorGoals:
-
-* As a Returning Visitor, I want to see various pets, so that I can pick from.
-* As a Returning Visitor, I want to see information about animals, so that I can learn about each animal and make a prudent decision.
-* As a Returning Visitor, I want to find a way to get in contact with the organization, so that I can ask additional questions or send a request about a particular animal.
-* As a Returning Visitor, I want to find community links, so that I can learn more about the organization.
 
 ### Frequent Visitor Goals:
-* As a Frequent User, I want to check whether there are any changes with available animals, so I can make a choice which animal to adopt.
-* As a Frequent User, I want to have options for the reason to contact the company, so I can get an explicit answer to my email. 
+* As a Frequent User, I want to check whether there are any changes with Femi's job situation, so I can make a choice to contact him or not
 
 ## Features
 

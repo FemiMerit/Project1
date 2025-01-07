@@ -1,8 +1,6 @@
-![Animal Shelter logo](documentation/animal_shelter_logo.png)
-
 ---
 
-# *Animal Shelter*
+# *Femi Merit CV*
 
 The Animal Shelter website allows people to learn about the company "Animal Shelter" and find information about animals living in this shelter. The visitors of the website could quickly contact the company about adopting animals as well as making a donation.
 

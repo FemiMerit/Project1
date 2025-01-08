@@ -42,7 +42,7 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
     ![NavBar desktop](documentation/navbar_desktop.png)
 
     - The navigation bar is responsive:
-        * On tablets and Mobile phones: navigation bar algines vertically to the right side of the page
+        * On tablets and Mobile phones: navigation bar aligns vertically to the right side of the page
         ![NavBar Tablets and Mibile phone](documentation/navbar_tablets.png)
 
 ---
@@ -51,26 +51,21 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
 
     - Represent: 
 
-        * the main idea of the company.
-        * Emphasize the strong points of the company.
-        * Shows feedback from satisfied clients.
-        * Invites to fill out the contact form.
-
+        * Summary about Femi Merit's skills and professtion history
+        * Displays a interactive picture of Femi Merit
 
     ![Home Page](documentation/home_page.png)
 
 ---
 
-+ #### Hero Section
++ #### Profile picture Section
 
-    - Hero section have a fixed background image.
+    - Profile picture section have a fixed background image with Femi Merit picture places in the center.
 
-    - Hero section have the block section below the image that consist:
+    - Profile picture section have block section below the picture
 
-        * The name of the company.
-        * Short description of the company's philosophy.
-        * Contact button that leads directly to the contact page.
-
+        * Femi Merit name writen in bold capita letters.
+        * Femi Merit's current job title written below his name
     
     ![Hero Section](documentation/hero_section.png)
 

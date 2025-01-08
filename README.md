@@ -31,13 +31,13 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
 + ### Navbar
 
 + ##### Navigation
-    - Positioned at the top of the page.
-    - Contains logo of the company on the left side.
-    - Contains navigation links on the right side:
-        * HOME - leads to the home page where users can learn about the company Animal Shelter.
-        * GALLERY - leads to the gallery page where users can see available animals in the Animal Shelter.
-        * CONTACT - leads to the contact form page where users can fill out the form in order to get in touch with the company.
-    - The links have animated hover effect.
+    - Positioned at the top left of the page.
+    - Contains the Home, Education, Employment, and Contact, links
+        * Home - leads to the home page where users can get a brief explanation of Femi's skills and expirirnece
+        * Education - leads to the education section where users can see Femi's highest quqlification and breakdown of his courses
+        * Employment - leads to the employment section where users can see Femi's employment history
+        * Conatct - leads to the conatct section, where users can see Femi's conatct detail and reach out to him
+    - The links have a hiver effect of changing from beige to blue.
     - The navigation is clear and easy to understand for the user.
     ![NavBar desktop](documentation/navbar_desktop.png)
 

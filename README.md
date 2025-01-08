@@ -37,22 +37,13 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
         * Education - leads to the education section where users can see Femi's highest quqlification and breakdown of his courses
         * Employment - leads to the employment section where users can see Femi's employment history
         * Conatct - leads to the conatct section, where users can see Femi's conatct detail and reach out to him
-    - The links have a hiver effect of changing from beige to blue.
+    - The links have a hover effect of changing from beige to blue.
     - The navigation is clear and easy to understand for the user.
     ![NavBar desktop](documentation/navbar_desktop.png)
 
     - The navigation bar is responsive:
-        * On tablets: navigation bar is split into to lines: the first line filled with the logo and the second line filled with links. All elements are centered.
-        ![NavBar Tablets](documentation/navbar_tablets.png)
-
-        * On mobile devices: 
-            - navigation bar filled with the logo in the center and a hamburger menu implemented on the left side of the navigation bar.      
-            ![NavBar Mobile Closed](documentation/navbar_mobile_closed.png)
-        
-            - When the hamburger menu is clicked, there is dropdown menu with the links in the same order.
-            ![NavBar Mobile Open](documentation/navbar_mobile_open.png)
-
-
+        * On tablets and Mobile phones: navigation bar algines vertically to the right side of the page
+        ![NavBar Tablets and Mibile phone](documentation/navbar_tablets.png)
 
 ---
 

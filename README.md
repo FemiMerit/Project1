@@ -83,7 +83,7 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
     ---
 + #### Education Section
 
-    - Has a line across the page to differentiate between the intrduction and enducation section
+    - Has a line across the page to seperate the intrduction and enducation section
     - Education Section has a hyperlink image of Femi Merit's university 
     - Users can click the image to visit the university's website
     - Below the image is a break down of Femi's course
@@ -92,9 +92,11 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
 
 
 ---
-+ #### Call to Action Section
++ #### Empoyment Section
 
-    - Call to Action Section has an explicit message for the visitors of the website to contact the company.
+    - Has a line across the page to seperate the education and employment section
+    - Each company Femi has worked for has a hyperlinked image posistion above the job entry
+    - The users can click on each image to take them directly to the comapny's website
 
     - Is also has a button that directs to the contact page.
 ​

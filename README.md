@@ -52,7 +52,7 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
     - Represent: 
 
         * Summary about Femi Merit's skills and professtion history
-        * Displays a interactive picture of Femi Merit
+        * Displays a interactive profile picture of Femi Merit
 
     ![Home Page](documentation/home_page.png)
 
@@ -60,7 +60,7 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
 
 + #### Profile picture Section
 
-    - Profile picture section have a fixed background image with Femi Merit picture places in the center.
+    - Profile picture section have a fixed background image with Femi Merit's picture places in the center.
 
     - Profile picture section have block section below the picture
 
@@ -71,29 +71,22 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
 
 --- 
 
-+ #### Highlights Section
++ #### Introduction Section
 
-    - Highlight Section has 4 cards with strong descriptive characteristics of the company.
+    - Introduction Section has a image matching the website theme
 
-    - Tells website visitors how well animals are in the Animal Shelter.
-
-    - Attracts viewers to use this company for animal adoption.
-
+    - Tells website visitors a brief overview of Femi's background
     
     ![Highlights Section](documentation/main_cons.png)
 
 
     ---
-+ #### Testimonials Section
++ #### Education Section
 
-    - Testimonials Section has three feedbacks from people who were satisfied with the company's service.
-
-    - Each card has a picture of an animal with its owner.
-
-    - Each card has a story from the people who had an experience of using the Animal Shelter.
-
-    - Each card has a name of the pet's owner.
-
+    - Has a line across the page to differentiate between the intrduction and enducation section
+    - Education Section has a hyperlink image of Femi Merit's university 
+    - Users can click the image to visit the university's website
+    - Below the image is a break down of Femi's course
 ​
     ![Testimonials Section](documentation/testimonials.png)
 

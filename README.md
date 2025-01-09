@@ -97,21 +97,21 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
     - Has a line across the page to seperate the education and employment section
     - Each company Femi has worked for has a hyperlinked image posistion above the job entry
     - The users can click on each image to take them directly to the comapny's website
-
-    - Is also has a button that directs to the contact page.
-​
+    - Each job entry is styled in bullet points making it easy for user's to understand
+    - ​
     ![Call to Action Section](documentation/call_to_action.png)
 
 
 ---
 + #### Footer
 
-    - Footer contains social media links that open in a new tab.
+    - Footer contains Femi Merit's conatct details (Email and Phone number)
+    - it also contains the form for the user to use to send a message directly to Femi Merit
 ​
     ![Footer](documentation/footer.png)
 ​
 ---
-+ ### Gallery Page
++ ### Form Section
 
     - Gallery page has a hero image and an introduction message for the visitors that contains an incentive to contact the company.
 
@@ -129,29 +129,6 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
     
 ​
     ![Tour page](documentation/gallery_page.png)
-
-
----
-+ ### Contact page
-
-    - Contact page has a contact form:
-
-        - All text input fields are customized.
-        - Labels are animated when the input field is in focus and are not empty.
-        - All inputs are set to be required to fill out.
-        - It has to checkboxes for the visitors to fill voluntary:
-
-            - The 1st is - ADAPT, which helps the company to understand the motive of the visitor.
-            - The 2nd is - DONATE, which motivates users to consider financial support for the company. 
-
-        - The submit button is animated on hover.
-
-    - The page is responsive on all common screen sizes.
-
-    - The submit button leads to the response page.
-​
-    ![Contact page](documentation/contact_form_page.png)
-
 
 ---
 + ### Response page

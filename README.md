@@ -113,19 +113,12 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
 ---
 + ### Form Section
 
-    - Gallery page has a hero image and an introduction message for the visitors that contains an incentive to contact the company.
+    - Displays a form for the user to fill
 
-    - It has a button right after the introduction message that leads to the contact form page.
-
-    - It has photos of the animals that a present in the Animal Shelter in real-time.
-
-        - The gallery is responsive: the size of the photo depends on the user's screen.
-        - Each image has a description of the animal that appears on hover.
-        - description information contains the name of the animal and its characteristics.
-
-    - It has a call to action section below the gallery with the incentivizing message and the button that leads to the contact form.
-
-    - It has a footer identical to the home page's footer.
+        - Name: the user will put their full name here
+        - Email: the user will put their email address here
+        - Message: the user will put the message they want to send to Femi Merit
+        - Submit: this is the button the user will click to submit their request
     
 ​
     ![Tour page](documentation/gallery_page.png)
@@ -134,8 +127,8 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
 + ### Response page
 
     - Response page appears after submitting the contact form.
-    - It contains the thank you message and the promise to get in touch with the applicant within 24 hours.
-    - It will automatically direct the user to the main page in 10 seconds.
+    - It contains the thank you message and the promise to get in touch with the user
+    - The user can return to the mail pain by clicking the Home link positioned at the top left of the page
 
     ![Response page](documentation/response_page.png)
 
@@ -145,13 +138,11 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
 - [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrange items simmetrically on the pages.
-- [CSS Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/grid) - was used to make "gallery" and "contact" pages responsive.
-- [CSS roots](https://developer.mozilla.org/en-US/docs/Web/CSS/:root) was used to declaring global CSS variables and apply them throughout the project. 
+- [CSS bootstrap](https://cdn.jsdelivr.net/npm/bootstrap@4/dist/css/bootstrap.min.css) was used to declaring global CSS style and apply them throughout the         project. 
 - [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
 - [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
 - [Git](https://git-scm.com/) was used for the version control of the website.
 - [GitHub](https://github.com/) was used to host the code of the website.
-- [GIMP](https://www.gimp.org/) was used to make and resize images for the README file.
 
 
 ---
@@ -161,47 +152,32 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
 
 ![Color pallet](documentation/color_pallet.png)
 
-- Soft blue color was used as the main color of the website due to its phycological effect on people's minds. As this color is associated with trustworthiness and reliability, website visitors could build a firm believe in the organization "Animal Shelter".
+- Black was used as the main colour of the website due to creating a slick and sophisticated look. As this colour is associated with proffesionalism, website visitors could build an idea of Femi Merit's proffesionalism
 
-- Light Blue Color was used as a background color since this color creates a sense of tranquility and makes a connection between animal's ownership and peacefulness.
-
-- Purple color was used to make an emphasis on the logo and leave a memorable effect on the website visitors.
-
+- White was used as the text colour since this colour will contrast to the black background and pop to the viewers
+  
 ### Typography
 
 ![Main Font](documentation/primary_font.png)
 
 - Lato Google Font was used as the main font of the website in order to increase readability of the content on the pages.
 
-![Accent Font](documentation/accent_font.png)
-
-- Lobster Google Font was used to attract viewers' attention to the company's logo, to make an accent on the strong points of the company, and to incentivize visitors to contact "Animal Shelter".
-
 
 ### Wireframes
 
 #### Mobile devices
 
-- [Home Page. Mobile Screen](documentation/mobile_home_page.png)
-- [Gallery Page. Mobile Screen](documentation/mobile_gallery_page.png)
-- [Contact Page. Mobile Screen](documentation/mobile_contact_form_page.png)
-- [Response Page. Mobile Screen](documentation/mobile_response_page.png)
+- [Webepage. Mobile Screen](documentation/mobile_home_page.png)
+
 
 
 #### Tablets
 
-- [Home Page. Tablet Screen](documentation/tablet_home_page.png)
-- [Gallery Page. Tablet Screen](documentation/tablet_gallery_page.png)
-- [Contact Page. Tablet Screen](documentation/tablet_contact_form_page.png)
-- [Response Page. Tablet Screen](documentation/tablet_response_page.png)
+- [Webpage. Tablet Screen](documentation/tablet_home_page.png)
 
 #### Desktop
 
-- [Home Page. Desktop Screen](documentation/desktop_home_page.png)
-- [Gallery Page. Desktop Screen](documentation/desktop_gallery_page.png)
-- [Contact Page. Desktop Screen](documentation/desktop_contact_form_page.png)
-- [Response Page. Desktop Screen](documentation/desktop_response_page.png)
-
+- [Webpage. Desktop Screen](documentation/desktop_home_page.png)
 
 ---
 
@@ -217,20 +193,20 @@ Please refer to the [TESTING.md](TESTING.md) file for all test-related documenta
 ### Deployment to GitHub Pages
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the [GitHub repository](https://github.com/IuliiaKonovalova/animal_shelter), navigate to the Settings tab 
+  - In the [GitHub repository](https://github.com/FemiMerit/Project1.git), navigate to the Settings tab 
   - From the source section drop-down menu, select the **Main** Branch, then click "Save".
   - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found [here](https://iuliiakonovalova.github.io/animal_shelter)
+The live link can be found [here](https://femimerit.github.io/Project1/)
 
 ### Local Deployment
 
 In order to make a local copy of this project, you can clone it.
 In your IDE Terminal, type the following command to clone my repository:
 
-- `git clone https://github.com/IuliiaKonovalova/animal_shelter.git`
+- `git clone https://github.com/FemiMerit/Project1.git`
 
-- Alternatively, if you use Gitpod, you can [click here](https://gitpod.io/#https://github.com/IuliiaKonovalova/animal_shelter), which will start the Gitpod workspace for you.
+- Alternatively, if you use Gitpod, you can [click here](https://gitpod.io/#https://github.com/FemiMerit/Project1.git), which will start the Gitpod workspace for you.
 
 ---
 

@@ -272,21 +272,15 @@ In your IDE Terminal, type the following command to clone my repository:
 
 + #### Tools
 
-    - [Compress JPEG](https://compressjpeg.com/) was used to compress JPEG images.
     - [IMGonline.com.ua](https://www.imgonline.com.ua/eng/resize-image.php) was used to resize images.
     - [EzGif](https://ezgif.com) was used to resize GIF images.
-    - [GIMP](https://www.gimp.org/) was used to edit all README.md images.
-    - [cooler](https://coolors.co/) was used to create the color palette.
 
 
 ---
 
 ## Acknowledgments
 
-- [Tim Nelson](https://github.com/TravelTimN) was a great supporter of another bold idea of mine for this project. Tim guided me through the development of the project and helped me to learn a lot of new things by challenging me to do something new.
-- [Aleksei Konovalov](https://github.com/lexach91), my husband and coding partner, assisted me greatly in product values js selection control implementation and helped me to stay sane.
-- [Zulnara Buravtseva](https://www.linkedin.com/in/zulnaraburavtseva/), my dear friend, helped me to test the website and provided me with valuable feedback.
+- [Tim Nelson](https://github.com/IuliiaKonovalova) was a great supporter of another bold idea of mine for this project. Tim guided me through the development of the project and helped me to learn a lot of new things by challenging me to do something new.
 - [Code Institute](https://codeinstitute.net/) tutors and Slack community members for their support and help.
-- [Kevin Powell](https://www.youtube.com/user/KepowOb) for his amazing CSS tutorials.
 
 ---

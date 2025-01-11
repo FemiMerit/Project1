@@ -64,7 +64,7 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 | Message input | Enter the message | The message is entered | Yes | Yes | If user doesn't enter the email, the error message appears. If user enters nothing, the error message appears |
 | "Submit" button | Click on the "Submit" button | The user is redirected to the response page | Yes | Yes | - |
 | Response page | | | | | |
-| Response message | The usercan return to home page by clicking Home link | The user is redirected to the home page | Yes | Yes | - |
+| Response message | The user can return to home page by clicking Home link | The user is redirected to the home page | Yes | Yes | - |
 
 ---
 ## Validator testing

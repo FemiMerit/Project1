@@ -1,0 +1,185 @@
+/* General Styles */
+body {
+    background-color: black !important;
+  }
+  
+/*Colour and position for navbar links*/
+  .nav-link {
+    color: beige;
+  }
+  
+  .navbar {
+    background-color: #000 !important;
+    position: fixed !important;
+    padding-top: 1% !important;
+    padding-bottom: 1% !important;
+    width: 100% !important;
+    z-index: 1 !important;
+  }
+
+/* Banner and related styles */
+.banner {
+  text-align: center;
+  background-image: url('../images/background-pic.jpg');
+  background-size: cover;
+  background-position: center;
+  overflow: hidden;
+  padding-top: 100px;
+  opacity: 0.8;
+  line-height: 1.5;
+}
+
+/* Tag and Title styles */
+.tag {
+  background-color: rgba(200, 200, 200, 0.5);
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+  display: table;
+  margin: 10px auto;
+}
+
+.title {
+  background-color: #222;
+  color: white;
+  opacity: 0.8;
+}
+
+/* Profile Image */
+.profile-image {
+  margin-top: 50px;
+  width: 150px;
+  height: 150px;
+  border-radius: 60%;
+  border: 3px solid rgb(255, 255, 255);
+  transition: all 0.5s;
+}
+
+.banner .profile-image:hover {
+  transform: scale(1.2) rotate(-20deg);
+}
+
+/* Intro section */
+
+.intro-placement{
+  display:flex;
+  flex-direction:column;
+  width:100%;
+  align-items:center;
+  justify-content:center;
+}
+
+.intro-left {
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: 10;
+  padding-top: 30px;
+}
+
+.image-right {
+  max-width:620px;
+  width: 100%;
+  height: 320px;
+  padding-top:30px;
+  border-radius: 5%;
+}
+/* Education Section */
+
+.education-placement{
+  border-top: 3px dashed rgba(220, 220, 220, 0.386);
+  display:flex;
+  flex-direction:column;
+  width:100%;
+  align-items:center;
+  justify-content:center;
+}
+.education-right {
+  padding-top: 40px;
+  font-weight: 10;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.image-left {
+  float: left;
+  max-width: 620px;
+  width: 100%;
+  padding-top: 40px;
+  border-radius: 5%;
+}
+
+/* Employment Section*/
+#employment-placement{
+    
+    display:flex;
+    flex-direction:column;
+    width:100%;
+    align-items:center;
+    justify-content:center;
+}
+
+.employment-title{
+  border-top: 3px dashed rgba(220, 220, 220, 0.386);
+  padding-top:20px;
+  padding-left: 15px;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.employment-entry {
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: 10;
+  padding-top: 15px;
+}
+
+.employment-image {
+  max-width: 150px;
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  padding-left: 15px;
+}
+
+/* Positioning for education details */
+#position1,
+#position2,
+#position3 {
+  display: inline-block;
+}
+
+/*Contacts section*/
+
+#contact-placement{
+  display:flex;
+  flex-direction:column;
+  width:100%;
+  align-items:left;
+  justify-content:left;
+}
+
+.contact-left {
+  margin: 15px;
+  border-top: 3px dashed rgba(220, 220, 220, 0.386);
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: 10;
+  padding-top: 15px;
+  padding-left: 15px;
+}
+
+/*Contact form*/
+.contact-form{
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: 10;
+  padding-top: 5px;
+  padding-left: 15px;
+}
+
+/*Responce message*/
+.response{
+  display:flex;
+  flex-direction:column;
+  width:100%;
+  align-items:center;
+  justify-content:center;
+  color: rgba(255, 255, 255, 0.7);
+  font-weight: 10;
+  padding-top: 5px;
+  padding-left: 15px;
+}

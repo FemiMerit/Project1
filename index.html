@@ -1,27 +1,258 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap@4/dist/css/bootstrap.min.css"
-    />
-    <link rel="stylesheet" href="style.css" />
-    <meta charset="utf-8" />
     <!--Meta tag for search engine-->
-    <meta name ="description" content="Femi Merit. Profile, Femi Merit's profile, FemiMerit. Profile"/>
-    <meta name = "keyword" content = "Femi Merit, Femi's profile, profile Femi, Femi Merit's profile"/>
+    <meta charset="utf-8" />
+    <meta name ="description" content="Femi Merit's cv for potential employee to view"/>
+    <meta name = "keyword" content = "Femi Merit, Femi's CV, CV Femi, Femi Merit's CV"/> 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/style.css"/>
     <!--Ttile-->
-    <title>Femi Merit</title>
+    <title>Femi Merit CV</title>
   </head>
-
 
   <body>
     <!--Header-->
-    <header></header>
-    <!--Main-->
-    <main></main>
-    <!--Footer-->
-    <footer></footer>
-  </body>
+    <header>
+    <!--Create navbar within the header conataining four links-->
+    <nav class="navbar navbar-expand-lg">
+        <div>
+          <ul class="navbar-nav">
+            <li><a class="nav-link" href="#home" aria-label="Navigate to Home section">Home</a></li>
+            <li><a class="nav-link" href="#education" aria-label="Navigate to Education section">Education</a></li>
+            <li><a class="nav-link" href="#employment" aria-label="Navigate to Employment section">Employment</a></li>
+            <li><a class="nav-link" href="#contact" aria-label="Navigate to Contact section">Contact</a></li>            
+          </ul>
+        </div>
+      </nav>
+    </header>
+      <!--Main-->
+      <main>
+      <!-- Home Section -->
+      <section id="home" class="banner">
+        <div>
+          <!--Profile picture-->
+          <img src="assets/images/profile-pic.jpg" alt="femi's-profile-pic" class="profile-image"/>
+          <!--Name-->
+          <h1 class="tag name">FEMI MERIT</h1>
+          <!--Job title-->
+          <p class="tag title">SaaS Specialist</p>
+        </div>
+      </section>
 
+      <!-- Introduction Section -->
+      <div>
+      <section class="intro-placement">
+        <img src="assets/images/computer.jpg" alt="stock-image" class="image-right"/>
+        <p class="intro-left">
+          A committed and motivated IT professional who has developed a high level of
+          technical knowledge working to provide IT solution. With his
+          experience in IT he has displayed an excellent ability to
+          grasp complicated concepts and apply them effectively.
+          <br /><br />
+          He utilises his communication effectively to seamlessly integrate into
+          a diverse team, ensuring he adapts appropriately to different
+          personalities in order to collaboratively achieve the business goals.
+          From his experience working within the
+          IT industry he has Proven ability to troubleshoot complex issues, optimize 
+          performance and enhance system reliability.
+        </p>
+      </section>
+    </div>
+
+       <!-- Education Section -->
+       <section id="education" class="education-placement">
+        <!--Create a div to contain the hyperlink image in relation to the education section-->
+        <div>
+          <a href="https://www.coventry.ac.uk/" target="_blank">
+            <img src="assets/images/university-pic.jpeg" alt="university-image" class="image-left" />
+          </a>
+        </div>        
+        <!--Use a div to contain the list of education subjects -->
+        <div class="education-right">
+          <h2>Education</h2>
+          <h3>Coventry University, Computer Engineer, 2012 - 2015</h3><br>
+          <ul id="position1">
+            <h3>Year 1</h3>
+            <li>System Projects</li>
+            <li>Fundamental Engineering Mathimatics</li>
+            <li>Computer System and Networking</li>
+          </ul>
+          <ul id="position2">
+            <h3>Year 2</h3>
+            <li>Communication Systems</li>
+            <li>Programming for Engineers</li>
+            <li>Network System Architectures</li>
+          </ul>
+          <ul id="position3">
+            <h3>Year 3</h3>
+            <li>Object Oriented Software</li>
+            <li>Advance Network Managment</li>
+            <li>Research Project</li>
+          </ul>
+        </div>
+      </section>
+            <!-- Employment Section -->
+            <section id="employment" class="employment-placement">
+              <h2 class="employment-title">Employment History</h2>
+              <!--Use a div element to contain details of responsibitly working in each company -->
+              <div class="employment-entry">
+                <!--Hyperlink image that will direct users to Capita website-->
+                <a href="https://www.capita.com/" target="_blank"> 
+                <img src="assets/images/capita-image.jpg" alt="capita-image" class="employment-image"/></a>
+                <!--Capita employment detail nested in a div element-->
+                <div class="employment-detail">
+                  <ul>
+                    <!--List for Capita-->
+                    <h3>Capita</h3>
+                    <li>
+                      Supporting Capita’s clients (such as NHS, NHS Wales, Ministry of
+                      Defense, and Strathclyde University) remotely
+                    </li>
+                    <li>
+                      Streamlined processes by collaborating with the dev team to
+                      ensure automation is implemented where needed
+                    </li>
+                    <li>
+                      Excellent understanding of account impersonation to recreate or
+                      debug issues
+                    </li>
+                    <li>
+                      Collaborating with the Development team to fix more complex
+                      issues
+                    </li>
+                    <li>Regular update of knowledge base with new fixes</li>
+                    <li>
+                      Routinely monitored SaaS applications performance ensuring data
+                      integrity and system reliability
+                    </li>
+                    <li>
+                      Managing deployment and Supporting integration of SaaS
+                      applications such as Salesforce, Zuora, Jira, Confluence,
+                      Tealium, Grafana, and Commerce tools
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <!-- List for Coventry University -->
+              <div class="employment-entry">
+                <!--Hyperlink image that will direct users to Coventry University website-->
+                <a href="https://www.coventry.ac.uk/" target="_blank">
+                  <img src="assets/images/coventry-university-image.png" alt="coventryuniversity-image" class="employment-image"/></a>
+                  <!--Coventry University employment detail nested in a div element-->
+                  <div class="employment-detail">
+                  <ul>
+                    <h3>Coventry University</h3>
+                    <li>
+                      Supported end-users with technical issues such as printer
+                      issues, window operating systems, Mac OS, and in-house
+                      applications like Solar and Moodle
+                    </li>
+                    <li>
+                      Trained junior IT Technicians, staff, and students on Solar &
+                      Moodle with documentation I created, stored in ServiceNow
+                      knowledge base, and verified with managers and other Senior IT
+                      Technicians
+                    </li>
+                    <li>
+                      Coordinated with outsourced vendors to manage technical needs
+                      through email, phone calls, and occasional visits to their sites
+                    </li>
+                    <li>
+                      Led weekly meetings with junior IT technicians over Teams and in
+                      person to enhance first-line closure rates and customer service
+                    </li>
+                    <li>
+                      Collaborated with the Cyber security team and documented all
+                      improvements discussed in OneNote for all teams to read through
+                      to ensure robust protection of user information
+                    </li>
+                    <li>
+                      Routinely monitored SaaS applications performance ensuring data
+                      integrity and system reliability
+                    </li>
+                    <li>
+                      Managed tasks using project management tools such as Jira and
+                      ServiceNow to handle escalated tickets and migrate users to the
+                      new student portal
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <!--List for NFU Mutual -->
+              <div class="employment-entry">
+                <!--Hyperlink image that will direct users to  NFU Mutual website-->
+                <a href="https://nfumutual.co.uk/" target="_blank">
+                  <img src="assets/images/nfu-mutual-image.jpg" alt="nfumutial-image" class="employment-image"/></a>
+                  <!--NFU Mutual employment detail nested in a div element-->
+                  <div class="employment-detail">
+                    <ul>
+                      <h3>NFU Mutual</h3>
+                      <li>
+                        Supported Capita’s clients (such as NHS, NHS Wales, Ministry of
+                        Defense, and Strathclyde University) remotely
+                      </li>
+                      <li>
+                        Streamlined processes by collaborating with the dev team to
+                        ensure automation is implemented where needed
+                      </li>
+                      <li>
+                        Excellent understanding of account impersonation to recreate or
+                        debug issues
+                      </li>
+                      <li>
+                        Collaborating with the Development team to fix more complex
+                        issues
+                      </li>
+                      <li>Regular update of knowledge base with new fixes</li>
+                      <li>
+                        Routinely monitored SaaS applications performance ensuring data
+                        integrity and system reliability
+                      </li>
+                      <li>
+                        Managing deployment and Supporting integration of SaaS
+                        applications such as Salesforce, Zuora, Jira, Confluence,
+                        Tealium, Grafana, and Commerce tools
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </section>
+      </main>
+    <!--Footer-->
+        <footer>
+          <!-- Contact Section -->
+          <section id="contact" class="contact-placement">
+            <!--Use a div element to contain the list for the contact and a class element for the styling-->
+            <div class="contact-left">
+              <h3>Contact:</h3>
+              <ul>
+                <li>
+                  Email:<a href="mailto:merritfemi@gmail.com"> merritfemi@gmail.com</a>
+                </li>
+                <li>Mobile Phone: 07480198135</li>
+              </ul>
+            </div>
+
+            <div class="contact-form">
+              <h4>Send a Message:</h4>
+              <form action="response.html" method="GET">
+                <div class="form-group">
+                  <label for="name">Name:</label>
+                  <input type="text" id="name" name="name" class="form-control" required />
+                </div>
+                <div class="form-group">
+                  <label for="email">Email:</label>
+                  <input type="email" id="email" name="email" class="form-control" required />
+                </div>
+                <div class="form-group">
+                  <label for="message">Message:</label>
+                  <textarea id="message" name="message" class="form-control" rows="4" required></textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Send</button>
+              </form>
+            </div>
+          </section>
+        </footer>    
+  </body>
   </html>

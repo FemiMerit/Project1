@@ -229,7 +229,6 @@ In your IDE Terminal, type the following command to clone my repository:
 
     - [FreeConverter](https://www.freeconvert.com/convert/mp4-to-gif) was used to convert mp4 vidoes to GIF images.
 
-
 ---
 
 ## Acknowledgments

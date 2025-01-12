@@ -9,7 +9,7 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     - Chrome:
 
-    ![Chrome](documentation/browsers_google.gif)
+    ![Chrome](documentation/chrome-testing.mp4)
 
     - FireFox:
 

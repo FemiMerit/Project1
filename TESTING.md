@@ -9,15 +9,15 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     - Chrome:
 
-    ![Chrome](documentation/chrome-testing.mp4)
+    ![Chrome](documentation/chrome-testing.gif)
 
     - FireFox:
 
-    ![FireFox](documentation/browsers_firefox.gif)
+    ![FireFox](documentation/firefox-testing.gif)
 
-    - Brave:
+    - Edge:
 
-    ![Edge](documentation/browsers_brave.gif)
+    ![Edge](documentation/edge-testing.gif)
 
 ## Responsiveness
 
@@ -26,26 +26,26 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     - Main Page:
 
-    ![Main Page](documentation/responsiveness_main_page.gif)
+    ![Main Page](documentation/responce-testing.gif)
 
     - Response Page:
 
-    ![Response Page](documentation/responsiveness_response_page.gif)
+    ![Response Page](documentation/responce-page-testing.gif)
 
 + The website was checked with [Responsive Website Design Tester](https://responsivedesignchecker.com/).
 
     - Desktop Screens:
 
-    ![Desktop](documentation/desktop_1024_600.gif)
+    ![Desktop](documentation/desktop-screen.gif)
     
 
     - Tablet Screens:
 
-    ![Tablet](documentation/tablet_600_960.gif)
+    ![Tablet](documentation/tablet-screen.gif)
 
     - Mobile Screens:
 
-    ![Mobile](documentation/mobile_320_480.gif)
+    ![Mobile](documentation/mobile-screen.gif)
 
 + The functionality of the links in the website was checked as well by different users.
 

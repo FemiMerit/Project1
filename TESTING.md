@@ -97,7 +97,7 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
   ### Response page
 
-  ![Response Page Lighthouse](documentation/lighthouse_response_page.png)
+  ![Response Page Lighthouse](documentation/lighthouse-response-page.png)
 
 ---
 ​

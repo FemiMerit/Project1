@@ -70,10 +70,9 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 ## Validator testing
 + ### HTML
   #### Home Page
-    - some errors were found when passing through the official W3C validator.
+    - No errors were found when passing through the official W3C validator.
 
     ![Home Page HTML Validator](documentation/main-page-validate.png)
-    ![Home Page HTML Validator](documentation/main-page-validate2.png)
   
   #### Response Page
     - No errors or warnings were found when passing through the official W3C validator.

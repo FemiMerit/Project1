@@ -150,8 +150,8 @@ body {
   display:flex;
   flex-direction:column;
   width:100%;
-  align-items:left;
-  justify-content:left;
+  align-items:center;
+  justify-content:center;
 }
 
 .contact-left {

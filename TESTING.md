@@ -70,14 +70,15 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 ## Validator testing
 + ### HTML
   #### Home Page
-    - No errors or warnings were found when passing through the official W3C validator.
+    - some errors were found when passing through the official W3C validator.
 
-    ![Home Page HTML Validator](documentation/w3_validator_home_page.png)
+    ![Home Page HTML Validator](documentation/main-page-validate.png)
+    ![Home Page HTML Validator](documentation/main-page-validate2.png)
   
   #### Response Page
     - No errors or warnings were found when passing through the official W3C validator.
 
-    ![Response Page HTML Validator](documentation/w3_validator_response_page.png)
+    ![Response Page HTML Validator](documentation/response-validate.png)
     
 + ### CSS
   No errors or warnings were found when passing through the official W3C (Jigsaw) validator except:

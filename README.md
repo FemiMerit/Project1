@@ -147,8 +147,6 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
 
 ### Color Scheme
 
-![Color pallet](documentation/color_pallet.png)
-
 - Black was used as the main colour of the website due to creating a slick and sophisticated look. As this colour is associated with proffesionalism, website visitors could build an idea of Femi Merit's proffesionalism
 
 - White was used as the text colour since this colour will contrast to the black background and pop to the viewers
@@ -208,7 +206,6 @@ In your IDE Terminal, type the following command to clone my repository:
 ---
 
 ## Future improvements
-- add slide with [Favicon Generator. For real.](https://realfavicongenerator.net/);
 - add custom 404 page;
 - add accessability report with [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/);
 - improve the quality of the commit messages (I am aware that some of them are not very clear and not meeting the standards and 

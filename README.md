@@ -6,7 +6,7 @@ Femi Merit CV is a website that allows potential employers see his Education and
 
 The site can be accessed by this [link](https://femimerit.github.io/Project1/)
 
-![Responsive Mockup](documentation/responsive_mockup.png)
+![Responsive Mockup](documentation/rmock-up.png)
 
 
 ---
@@ -39,11 +39,11 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
         * Conatct - leads to the conatct section, where users can see Femi's conatct detail and reach out to him
     - The links have a hover effect of changing from beige to blue.
     - The navigation is clear and easy to understand for the user.
-    ![NavBar desktop](documentation/navbar_desktop.png)
+    ![NavBar desktop](documentation/nav-bar.png)
 
     - The navigation bar is responsive:
         * On tablets and Mobile phones: navigation bar aligns vertically to the right side of the page
-        ![NavBar Tablets and Mibile phone](documentation/navbar_tablets.png)
+        ![NavBar Tablets and Mibile phone](documentation/tablet-nav.png)
 
 ---
 
@@ -54,7 +54,7 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
         * Summary about Femi Merit's skills and professtion history
         * Displays a interactive profile picture of Femi Merit
 
-    ![Home Page](documentation/home_page.png)
+    ![Home Page](documentation/home-page.png)
 
 ---
 
@@ -67,7 +67,7 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
         * Femi Merit name writen in bold capita letters.
         * Femi Merit's current job title written below his name
     
-    ![Hero Section](documentation/hero_section.png)
+    ![Profile-pic Section](documentation/profile-pic-section.png)
 
 --- 
 
@@ -77,7 +77,7 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
 
     - Tells website visitors a brief overview of Femi's background
     
-    ![Highlights Section](documentation/main_cons.png)
+    ![Introduction Section](documentation/intro-section.png)
 
 
     ---
@@ -88,7 +88,7 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
     - Users can click the image to visit the university's website
     - Below the image is a break down of Femi's course
 ​
-    ![Testimonials Section](documentation/testimonials.png)
+    ![Education Section](documentation/education-section.png)
 
 
 ---
@@ -99,7 +99,7 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
     - The users can click on each image to take them directly to the comapny's website
     - Each job entry is styled in bullet points making it easy for user's to understand
     - ​
-    ![Call to Action Section](documentation/call_to_action.png)
+    ![Employment Section](documentation/employment-section.png)
 
 
 ---
@@ -108,7 +108,7 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
     - Footer contains Femi Merit's conatct details (Email and Phone number)
     - it also contains the form for the user to use to send a message directly to Femi Merit
 ​
-    ![Footer](documentation/footer.png)
+    ![Footer](documentation/contact-section.png)
 ​
 ---
 + ### Form Section
@@ -121,7 +121,7 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
         - Submit: this is the button the user will click to submit their request
     
 ​
-    ![Tour page](documentation/gallery_page.png)
+    ![Tour page](documentation/form-section.png)
 
 ---
 + ### Response page
@@ -130,7 +130,7 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
     - It contains the thank you message and the promise to get in touch with the user
     - The user can return to the mail pain by clicking the Home link positioned at the top left of the page
 
-    ![Response page](documentation/response_page.png)
+    ![Response page](documentation/responce-section.png)
 
 ---
 ## Technologies Used
@@ -158,7 +158,7 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
   
 ### Typography
 
-![Main Font](documentation/primary_font.png)
+![Main Font](documentation/font-style.png)
 
 - Lato Google Font was used as the main font of the website in order to increase readability of the content on the pages.
 
@@ -167,17 +167,17 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
 
 #### Mobile devices
 
-- [Webepage. Mobile Screen](documentation/mobile_home_page.png)
+- [Webepage. Mobile Screen](documentation/mobile.png)
 
 
 
 #### Tablets
 
-- [Webpage. Tablet Screen](documentation/tablet_home_page.png)
+- [Webpage. Tablet Screen](documentation/tablet.png)
 
 #### Desktop
 
-- [Webpage. Desktop Screen](documentation/desktop_home_page.png)
+- [Webpage. Desktop Screen](documentation/desktop.png)
 
 ---
 
@@ -211,76 +211,37 @@ In your IDE Terminal, type the following command to clone my repository:
 ---
 
 ## Future improvements
-- add favicon with [Favicon Generator. For real.](https://realfavicongenerator.net/);
+- add slide with [Favicon Generator. For real.](https://realfavicongenerator.net/);
 - add custom 404 page;
 - add accessability report with [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/);
-- improve the quality of the commit messages (I am aware that some of them are not very clear and not meeting the standards and will improve them in the future);
+- improve the quality of the commit messages (I am aware that some of them are not very clear and not meeting the standards and 
+   will improve them in the future);
 - add fully functional contact form.
 
 ---
-## Credits
-
-+ #### Content
-
-    - Inspiration for the gallery hover effect came from the article "How to add a gradient to overlay to a background image using just CSS and HTML" published the website [Web Dev etc](https://webdevetc.com).
-    - Inspiration for the responsive hamburger navbar came from [Kevin Powell](https://www.youtube.com/user/KepowOb) on his YouTube channel.
 
 + #### Media
 
-    - All the images for the website were taken from [Unsplash](https://unsplash.com/).
-    + [Hero image](https://unsplash.com/photos/9gz3wfHr65U);
-    + Main cons images:
-        - [1st image](https://unsplash.com/photos/_STvosrG-pw)
-        - [2nd image](https://unsplash.com/photos/v3-zcCWMjgM);
-        - [3rd image](https://unsplash.com/photos/W4EUiwceZjs);
-        - [4th image](https://unsplash.com/photos/sXU6BeWoZqI).
-    + Testimonial Section: 
-        - [1st image](https://unsplash.com/photos/UCFgM_AojFg);
-        - [2nd image](https://unsplash.com/photos/ISg37AI2A-s);
-        - [3rd image](https://unsplash.com/photos/2WeHZHIW6v0).
-    + Gallery:
-         - [1st image](https://unsplash.com/photos/gKXKBY-C-Dk);
-         - [2nd image](https://unsplash.com/photos/FdR_CoENqp8);
-         - [3rd image](https://unsplash.com/photos/C0zDWAPFT9A);
-         - [4th image](https://unsplash.com/photos/WrG-lFojjW4);
-         - [5th image](https://unsplash.com/photos/IbPxGLgJiMI);
-         - [6th image](https://unsplash.com/photos/tf2BKM9iy9o);
-         - [7th image](https://unsplash.com/photos/iYQC9xWMvw4);
-         - [8th image](https://unsplash.com/photos/o_QTeyGVWjQ);
-         - [9th image](https://unsplash.com/photos/AH7JYgyAlqA);
-         - [10th image](https://unsplash.com/photos/sssxyuZape8);
-         - [11th image](https://unsplash.com/photos/4tc7_jEgGzg);
-         - [12th image](https://unsplash.com/photos/GewH2PtoR1s);
-         - [13th image](https://unsplash.com/photos/7GX5aICb5i4);
-         - [14th image](https://unsplash.com/photos/VvO8e8n0Ffg);
-         - [15th image](https://unsplash.com/photos/1Y4LupdrDZk);
-         - [16th image](https://unsplash.com/photos/uumnRC_kVks);
-         - [17th image](https://unsplash.com/photos/h7VBJRBcieM);
-         - [18th image](https://unsplash.com/photos/Ud4k7O6CJPM);
-         - [19th image](https://unsplash.com/photos/ngqyo2AYYnE);
-         - [20th image](https://unsplash.com/photos/g3B53PbBfwU);
-         - [21st image](https://unsplash.com/photos/JSfsK9VH4q8);
-         - [22nd image](https://unsplash.com/photos/FilM6ng7VGQ);
-         - [23rd image](https://unsplash.com/photos/UtrE5DcgEyg);
-         - [24th image](https://unsplash.com/photos/IuJc2qh2TcA);
-         - [25th image](https://unsplash.com/photos/1-sM8xqPFTM);
-         - [26th image](https://unsplash.com/photos/zBvVuRJ71vU);
-         - [27th image](https://unsplash.com/photos/dEtvMzcbYiA);
-         - [28th image](https://unsplash.com/photos/J7rRzjba-kY);
-         - [29th image](https://unsplash.com/photos/mx0DEnfYxic);
-         - [30th image](https://unsplash.com/photos/VwqecUsYKvs);
+    - All the images for the website were taken from [bing](https://bing.com/).
+    + [background image](https://d1csarkz8obe9u.cloudfront.net/posterpreviews/virtual-zoom-conference-backgrounds-design-template-1e0be94408ad2397b7ff07650245c5c0_screen.jpg?ts=1698660790);
+    + All images used:
+        - [1st image](https://miro.medium.com/v2/resize:fit:1200/1*35CvsViwO5MmPmDcskDYZA.jpeg)
+        - [2nd image](https://th.bing.com/th/id/OIP.0lcqam1DJyrqoLbnyCE-EwAAAA?pid=ImgDet&w=202&h=182&c=7&dpr=1.3);
+        - [3rd image](https://th.bing.com/th/id/OIP.UJcSdVYvaoqBCBLFysTDhAHaGm?pid=ImgDet&w=203&h=180&c=7&dpr=1.3);
+        - [4th image](https://th.bing.com/th/id/OIP.cx2lMwlV2K53nAN110ikwAHaHa?pid=ImgDet&w=202&h=202&c=7&dpr=1.3);
+        - [5th image](https://media.glassdoor.com/lst2x/86/71/e6/1d/nfu-mutual-north-east-regional-office.jpg).
 
 + #### Tools
 
-    - [IMGonline.com.ua](https://www.imgonline.com.ua/eng/resize-image.php) was used to resize images.
-    - [EzGif](https://ezgif.com) was used to resize GIF images.
+    - [FreeConverter](https://www.freeconvert.com/convert/mp4-to-gif) was used to convert mp4 vidoes to GIF images.
 
 
 ---
 
 ## Acknowledgments
 
-- [Tim Nelson](https://github.com/IuliiaKonovalova) was a great supporter of another bold idea of mine for this project. Tim guided me through the development of the project and helped me to learn a lot of new things by challenging me to do something new.
+- [Juliia Konovalova](https://github.com/IuliiaKonovalova) was a great mentor as she pointed me to the right direction in       
+  completing the project
 - [Code Institute](https://codeinstitute.net/) tutors and Slack community members for their support and help.
 
 ---

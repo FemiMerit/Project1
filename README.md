@@ -138,8 +138,9 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
 - [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrange items simmetrically on the pages.
 - [CSS bootstrap](https://cdn.jsdelivr.net/npm/bootstrap@4/dist/css/bootstrap.min.css) was used to declaring global CSS style and apply them throughout the project. 
 - [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
+- [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
 - [Git](https://git-scm.com/) was used for the version control of the website.
-- [GitHub](https://github.com/) was used to write and edit code. also host the code of the website.
+- [GitHub](https://github.com/) was used to host the code of the website.
 
 
 ---

@@ -102,7 +102,7 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 ​
 ## Bugs
 + ### Solved bugs
-    - The layout of the website did not translate when to mobile format. I used flex in css to help resolve the issue
+    - The layout of the website did not translate when to mobile format. I used flexbox in css to help resolve the issue
 + ### Unsolved bugs
     - None.
 + ### Mistakes

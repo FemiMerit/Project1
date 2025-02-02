@@ -10,6 +10,36 @@ The site can be accessed by this [link](https://femimerit.github.io/Project1/)
 ---
 ## User Stories
 
+Title: User views and interacts with my CV website
+
+As a job seeker/professional,
+I want to have a personal website that showcases my CV,
+So that potential employers, clients, or recruiters can easily view my skills, experience, and contact information.
+
+Acceptance Criteria:
+Homepage
+
+Users should see a professional introduction with my name, photo, and a short bio.
+A clear navigation menu (Home, Education, Employment, Contact).
+
+
+Users can view my CV in a structured layout, with sections like Education, Work Experience, and Skills.
+Each section should be clearly labeled and formatted for easy reading.
+
+Interaction & Feedback
+
+When users hover over elements, subtle animations or highlights should guide them.
+Clicking on job roles should expand or provide additional details.
+Contact form should give feedback (e.g., “Message sent successfully”).
+Responsiveness & Accessibility
+
+The website should be mobile-friendly and adjust well to different screen sizes.
+Text should be readable, with contrast for accessibility.
+Contact & Social Links
+
+A contact form allowing users to reach out to me directly.
+Links to my LinkedIn, GitHub, or other relevant platforms.
+
 ### First Time Visitor Goals:
 
 * As a First Time Visitor, I want to easily understand the main purpose of the site, so I can learn more about Femi Merit background.

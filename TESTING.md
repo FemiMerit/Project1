@@ -102,10 +102,23 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 ​
 ## Bugs
 + ### Solved bugs
-    - The layout of the website did not translate when to mobile format. I used flexbox in css to help resolve the issue
+    - The layout of the website did not translate when to mobile format. 
+
+        *Solutions:* I used flexbox in css to help resolve the issue
+
+    - I was having issues setting the colour of the title in css
+
+        *Solutions:* I set the colour in my inxed.html instead
+    
+    - Issue scaling allthe images in the employment section
+
+        *Solutions:* Created a class .employment-image that hold all the images and set their size in css
+    
 + ### Unsolved bugs
-    - None.
+    - unable to shrink the contact form size without 
+    .
 + ### Mistakes
     - Mistakes were made while committing changes. I used past simple tense in commits due to the habit when I just started working on this project.
+
     - While progressing in my code I learned to use present simple tense in commits.
 ---
